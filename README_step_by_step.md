@@ -19,3 +19,5 @@ git add
 git commit -m "adding"
 git pull origin main
 git push -u -f origin main
+#7. creat action 
+#in Actions tab choose 
