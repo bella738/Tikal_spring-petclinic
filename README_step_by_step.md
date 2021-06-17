@@ -11,7 +11,7 @@ sudo apt-get update
 
 sudo apt install openjdk-8-jdk
 
-#3. runnig the program  
+/3. runnig the program  
 
 cd spring-petclinic
 
@@ -19,15 +19,15 @@ cd spring-petclinic
 
 java -jar target/*.jar
 
-#4. create new repository in github named Tikal_spring-petclinic
+/4. create new repository in github named Tikal_spring-petclinic
 
-#5. set git user configure
+/5. set git user configure
 
 git config user.name "bmd738"
 
 git config user.email bmd738@gmail.com
 
-#6. push the repository
+/6. push the repository
 
 git init
 
@@ -39,8 +39,8 @@ git pull origin main
 
 git push -u -f origin main
 
-#7. creat action 
+/7. creat action 
 
-#in Actions tab choose 'java with maven' workflow
+/In Actions tab choose 'java with maven' workflow
 
 good luck!
