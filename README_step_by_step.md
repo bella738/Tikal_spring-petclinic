@@ -1,11 +1,11 @@
-# spring-petclinic
-## ci proccess:
+## spring-petclinic
+# ci proccess:
 
-# _get the repository_ 
+## _get the repository_ 
 
 git clone https://github.com/spring-projects/spring-petclinic.git
 
-# _install java_ 
+## _install java_ 
 
 sudo apt-get update
 
